@@ -26,6 +26,7 @@ Pensamos en hacer una página web acerca de productos dietéticos, fitness, prod
 
 
 <div id ='pagWeb' />
+
 ## <span style="color:#B9D989"> Página web</span>
 
 <div id ='pagPrin' />
