@@ -4,7 +4,31 @@ Buenos días, vamos a explicaros en qué consiste nuestro trabajo.
 
 Pensamos en hacer una página web acerca de productos dietéticos, fitness, productos que tratasen en general sobre el sistema digestivo.
 
+
+
+**Indice**
+1. [Página Web](#pagWeb)
+   - 1.1 [Página principal](#pagPrin)
+   - 1.2 [Página sistema inmunitario y defensas](#pagSid)
+   - 1.3 [Página deportistas](#pagDepor)
+2. [Formulario](#form)
+3. [Tablero](#tablero)
+4. [Gestión tareas de administración](#GTA)
+5.  [Productos](#prod)
+6.  [Calendario](#calen)
+7.  [Eventos y campañas de marketing](#ECM)
+8.  [Sistemas de comunicación interno](#SCI)
+8.  [Gestionar contactos y otros datos](#GCD)
+10. [Sistema de control de versiones y copias de seguridad](#SCV)
+    - 10.1 [Encriptación base de datos](#EBD)
+    - 10.2 [Commits Github](#CGH)
+    - 10.3 [Ramas proyecto Github](#RPG)
+
+
+<div id ='pagWeb' />
 ## <span style="color:#B9D989"> Página web</span>
+
+<div id ='pagPrin' />
 
 - ### <span style="color:#8CBF3F">Página principal</span>
 
@@ -24,6 +48,8 @@ Aquí podéis apreciar nuestros valores, nuestra misión y los proveedores con l
 
 También se pueden leer las opiniones de nuestros clientes.
 
+<div id ='pagSid' />
+
 - ### <span style="color:#8CBF3F">Página sistema inmunitario y defensas </span>
 
 ![](Imagenes/Screenshots/Sistema1.png)  
@@ -33,6 +59,8 @@ Esta página está solo dedicada a productos que traten el sistema inmunitario, 
 
 ![](Imagenes/Screenshots/Producto.png)  
 
+<div id ='pagDepor' />
+
 - ### <span style="color:#8CBF3F">Página deportistas </span>
 
 ![](Imagenes/Screenshots/Deportistas1.png)  
@@ -40,10 +68,14 @@ Esta página está solo dedicada a productos que traten el sistema inmunitario, 
 
 Esta página está solo dedicada a productos cuyo enfoque está en aumentar el rendimiento deportivo tanto para profesionales, como para gente amateur.
 
+<div id ='form' />
+
 ## <span style="color:#B9D989"> Formulario </span>
 
 Tenemos un botón el cual tiene escrito la palabra contáctanos y llevará a un formulario en el cual los clientes podrán hacer sus respectivas preguntas sobre cualquier cuestión relacionada con nuestra compañía<./p>  
 ![](Imagenes/Screenshots/Formulario.png) ![](Imagenes/Screenshots/Gracias.png)
+
+<div id ='tablero' />
 
 ## <span style="color:#B9D989"> Tablero </span>
 
@@ -53,19 +85,27 @@ Hemos descargado un módulo el cual nos ha permitido organizar nuestras tareas c
 ![](Imagenes/Screenshots/Tablero2.png)  
 ![](Imagenes/Screenshots/Tablero3.png)  
 
+<div id ='GTA' />
+
 ## <span style="color:#B9D989">Gestión tareas de Administración </span>
 
 ![](Imagenes/Screenshots/CRM.png)  
+
+<div id ='prod' />
 
 ## <span style="color:#B9D989">Productos</span>
 
 Hemos implementado unos productos con sus respectivos precios, los cuales los clientes podrán comprar de manera muy sencilla<./p>  
 ![](Imagenes/Screenshots/Productos1.png)  
 
+<div id ='calen' />
+
 ## <span style="color:#B9D989">Calendario</span>
 
 Hay ciertos días que tenemos tareas muy importantes que realizar, por eso las hemos dejado apuntadas en un calendario que nos ofrece Odoo tras haber instalado el módulo correspondiente<./p>  
 ![](Imagenes/Screenshots/Calendario1.png)  
+
+<div id ='ECM' />
 
 ## <span style="color:#B9D989">Eventos y campañas de marketing</span>
 
@@ -74,6 +114,8 @@ Para darnos a conocer y fidelizar con nuestros clientes, hemos creado 2 eventos 
 ![](Imagenes/Screenshots/Eventos1.png)  
 ![](Imagenes/Screenshots/Eventos2.png)  
 ![](Imagenes/Screenshots/Eventos3.png)  
+
+<div id ='SCI' />
 
 ## <span style="color:#B9D989">Sistema de comunicación interno</span>
 
@@ -84,6 +126,8 @@ Para poder trabajar de manera más sencilla y cómoda entre nosotros los emplead
 ![](Imagenes/Screenshots/Chat3.png)  
 ![](Imagenes/Screenshots/Chat4.png)  
 
+<div id ='GCD' />
+
 ## <span style="color:#B9D989">Gestionar contactos y otros datos</span>
 
 Para tener a mano los datos de nuestros clientes, proveedores, etc. Hemos implementado un módulo el cual nos permite generar un archivo tipo Calc que guarda todos estos datos tan esenciales para cualquier empresa.
@@ -91,7 +135,11 @@ Para tener a mano los datos de nuestros clientes, proveedores, etc. Hemos implem
 ![](Imagenes/Screenshots/Contactos1.png)  
 ![](Imagenes/Screenshots/CSV.png)  
 
+<div id ='SCV' />
+
 ## <span style="color:#B9D989">Sistema de control de versiones y copias de seguridad </span>
+
+<div id ='EBD' />
 
 + ### <span style="color:#8CBF3F">Encriptación base de datos </span>
 
@@ -99,9 +147,13 @@ Aquí hemos encriptado la base de datos, ya que contiene datos sensibles y no se
 
 ![](Imagenes/Screenshots/cifrando.png)  
 
+<div id ='CGH' />
+
 + ### <span style="color:#8CBF3F">Commits GitHub</span>
 
 ![](Imagenes/Screenshots/GitHubCommits.png)  
+
+<div id ='RPG' />
 
 + ### <span style="color:#8CBF3F">Ramas proyecto GitHub</span>
 
