@@ -96,14 +96,14 @@ Hemos descargado un módulo el cual nos ha permitido organizar nuestras tareas c
 
 ## <span style="color:#B9D989">Productos</span>
 
-Hemos implementado unos productos con sus respectivos precios, los cuales los clientes podrán comprar de manera muy sencilla<./p>  
+Hemos implementado unos productos con sus respectivos precios, los cuales los clientes podrán comprar de manera muy sencilla  
 ![](Imagenes/Screenshots/Productos1.png)  
 
 <div id ='calen' />
 
 ## <span style="color:#B9D989">Calendario</span>
 
-Hay ciertos días que tenemos tareas muy importantes que realizar, por eso las hemos dejado apuntadas en un calendario que nos ofrece Odoo tras haber instalado el módulo correspondiente<./p>  
+Hay ciertos días que tenemos tareas muy importantes que realizar, por eso las hemos dejado apuntadas en un calendario que nos ofrece Odoo tras haber instalado el módulo correspondiente 
 ![](Imagenes/Screenshots/Calendario1.png)  
 
 <div id ='ECM' />
